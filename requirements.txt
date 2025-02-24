@@ -1,0 +1,3 @@
+pytest==7.4.0
+selene>=2.0.0rc9
+black~=25.1.0
